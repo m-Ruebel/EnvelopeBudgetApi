@@ -1,0 +1,17 @@
+{
+  "name": "personalbudget",
+  "version": "1.0.0",
+  "description": "a program used to budget money using the envelope system",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mason Ruebel",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "morgan": "^1.10.0"
+  }
+}
